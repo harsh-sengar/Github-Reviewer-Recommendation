@@ -1,2 +1,2 @@
 # Github-Reviewer-Recommendation
-Github Reviewer Recommendation using Neural Networks on Graph
+Github Reviewer Recommendation on Graph using Graph Neural Network
